@@ -1,0 +1,188 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-right: -11%;
+  // margin-left: -11%;
+  // margin-top: -4%;
+  // background-color: rgb(19, 18, 18);
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+  // padding-bottom: 20px;
+}
+
+p {
+  // margin: 10px 0;
+}
+
+.text-primary {
+  color: #f7c08a;
+}
+
+.lead {
+  // font-size: 20px;
+}
+
+.btn {
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  background: #333;
+   padding: 13px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 2px;
+}
+
+.btn:hover {
+  background: rgb(54, 87, 65);
+  color: black;
+}
+
+.btn-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.bg-dark {
+  // background: #333;
+  color: #fff;
+  background: -webkit-linear-gradient(to right, rgb(25, 56, 12), rgb(164, 185, 145));
+  background: linear-gradient(to right, rgb(151, 233, 116), rgb(32, 43, 21));
+}
+
+.bg-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.bg-primary {
+  background: #f7c08a;
+  color: #333;
+}
+
+.l-heading {
+  // font-size: 40px;
+}
+
+#s {
+ 
+  // height: 600px;
+  // margin-top: -80px;
+}
+
+#s .s-content {
+  // padding-top: 170px;
+  // height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#s .s-content h1 {
+  font-size: 60px;
+   line-height: 1.2em;
+  color: #f4f4f4;
+}
+
+#s .s-content p {
+  // padding-bottom: 20px;
+   line-height: 1.7em;
+  font-weight: bold;
+  // z-index: 20;
+  color: rgb(18, 36, 24);
+
+}
+
+/* Home Info */
+#home-info {
+  // height: 400px;
+
+}
+
+#home-info .info-content {
+  height: 100%;
+  text-align: center;
+   padding: 5% 5%;
+  overflow: hidden;
+}
+
+#home-info .info-content  {
+padding: 5%;
+}
+
+
+
+
+
+/* Footer */
+#main-footer {
+  text-align: center;
+background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.c {
+  margin-top: 0px;
+}
+
+header::before {
+
+  content: '';
+  position: absolute;
+   top: 0;
+   left: 0;
+   width: 100vw;
+  // width: 100%;
+  height: 100vh;
+  background: rgba(68, 67, 67, 0.6);
+}
+
+header * {
+   z-index: 10;
+
+
+}
+header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('../../imags/wedding-dinner-table-set-classy-white-decor-with-greenery.jpg') no-repeat no-repeat center center/cover;
+  width: 100vw;
+  height: 100vh;
+  position: relative; 
+}
+
+
+@media screen and (max-width: 772px) {
+  // body{
+  //   margin-top: 300px;
+  //   background-color: black;
+  // }
+ 
+  // header::before {
+  //   background-color:white;
+  // }
+  // .special{
+  //   height: 300px;
+  // }
+ 
+ }

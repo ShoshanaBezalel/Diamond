@@ -1,0 +1,45 @@
+.text-align-right {
+  text-align: right;
+}
+
+.body {
+
+  margin-right: -11%;
+  margin-left: -11%;
+  margin-top: 2%;
+}
+
+.gradient-custom {
+  background: -webkit-linear-gradient(to right, rgb(25, 56, 12), rgb(164, 185, 145));
+  background: linear-gradient(to right, rgb(151, 233, 116), rgb(32, 43, 21))
+}
+
+@media print {
+  input[type=radio] {
+    -webkit-appearance: auto;
+    -moz-appearance: auto;
+    appearance: auto;
+    background: none;
+  }
+}
+
+label {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.mb-0 {
+  cursor: pointer;
+}
+
+.s {
+  margin: 2px;
+}
+
+.radio {
+  direction: rtl;
+
+}

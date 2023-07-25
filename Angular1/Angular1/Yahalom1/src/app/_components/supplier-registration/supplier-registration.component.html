@@ -1,0 +1,115 @@
+<div class="body">
+    <section class="gradient-custom">
+        <div class="container py-5 h-100">
+          <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+              <div class="card bg-dark text-white" style="border-radius: 1rem;">
+                <div class="card-body p-5 text-center">
+                   
+                  <div class="mb-md-5 mt-md-4 pb-5">
+<div class="container d-flex justify-content-center">
+    <div class="container d-flex justify-content-center">
+    <form #registerForm="ngForm" (ngSubmit)="register()" class="form-center">
+        <h2 class="fw-bold mb-2 text-uppercase">הרשמת ספק</h2>
+        <hr>
+        <div class="mb-3">
+            <input type="text" class="form-control text-align-right" name="firstName" [(ngModel)]="model.firstName"
+                placeholder="שם פרטי" #firstName="ngModel" required />
+            <div *ngIf="firstName.touched && firstName.invalid" class="alert alert-danger">נא הכנס שם פרטי</div>
+        </div>
+
+        <div class="mb-3">
+            <input type="text" class="form-control text-align-right" name="lastName" [(ngModel)]="model.lastName"
+                placeholder="שם משפחה" #lastName="ngModel" required>
+            <div *ngIf="lastName.touched && lastName.invalid" class="alert alert-danger">נא הכנס שם משפחה </div>
+        </div>
+
+        <div class="mb-3">
+            <input type="password" class="form-control text-align-right" name="password" [(ngModel)]="model.password"
+                placeholder="סיסמה" #password="ngModel" required>
+            <div *ngIf="password.touched && password.invalid" class="alert alert-danger">נא הכנס סיסמה</div>
+        </div>
+
+        <div class="mb-3">
+            <input type="password" class="form-control text-align-right" name="confirmPassword"
+                [(ngModel)]="model.confirmPassword" placeholder="אימות סיסמה" #confirmPassword="ngModel" required>
+            <div *ngIf="confirmPassword.touched && confirmPassword.invalid" class="alert alert-danger">נא אמת
+                את סיסמתך</div>
+            <div *ngIf="passwordMismatch" class="alert alert-danger">Passwords do not match.</div>
+            <!-- <div *ngIf="registerForm.get('confirmPassword')?.hasError('validate')" class="alert alert-danger">Passwords do not match.</div> -->
+        </div>
+
+        <div class="mb-3">
+            <input type="number"min="0" max="99999999999999" class="form-control text-align-right" name="phone" [(ngModel)]="model.phone"
+                placeholder="מספר טלפון" #phone="ngModel" required>
+            <div *ngIf="phone.touched && phone.invalid" class="alert alert-danger">נא הכנס מספר טלפון</div>
+        </div>
+
+        <div class="mb-3">
+            <input type="email" class="form-control text-align-right" name="email" [(ngModel)]="model.email"
+                placeholder="אימייל" #email="ngModel" required>
+            <div *ngIf="email.touched && email.invalid" class="alert alert-danger">נא הכנס כתובת אימייל תקינה</div>
+        </div>
+
+        <div class="text-align-right">
+            <label>בחר תחום עיסוק</label>
+            <select class="form-control text-align-right" name="idCategory" (click)="getSecondCategory(this.model.idCategory)" [(ngModel)]="model.idCategory "
+                #idCategory="ngModel" required>
+                <option [ngValue]="1">אולם</option>
+                <option [ngValue]="2">תזמורת</option>
+                <option [ngValue]="3">צילום ווידאו</option>
+                <option [ngValue]="4">ארגון חתונה</option>
+                <option [ngValue]="5">תסרוקות</option>
+                <option [ngValue]="6">איפור</option>
+                <div *ngIf="idCategory.touched && idCategory.invalid" class="alert alert-danger" >בחר תחום עיסוק</div>
+            </select>
+        </div>
+        <div class="text-align-right">
+            <label>בחר תת תחום </label>
+             <select class="form-control text-align-right" name="idSecondSupplierCategory" 
+             >
+                <option *ngFor="let category of arrSecondCategory" [value]="category.id_Second_Ctegory">{{ category.description_Second_Ctegory }}</option>
+            </select> 
+            
+        </div>
+
+        <div class="text-align-right">
+            <label>בחר מיקום</label>
+            <select class="form-control text-align-right" name="place" [(ngModel)]="model.idPlace" #idPlace="ngModel"
+                required>
+                <option [ngValue]="1">ירושלים והסביבה</option>
+                <option [ngValue]="2">מרכז</option>
+                <option [ngValue]="3">צפון</option>
+                <option [ngValue]="4">דרום</option>
+                <option [ngValue]="5">כללי</option>
+                <div *ngIf="idPlace.touched && idPlace.invalid" class="alert alert-danger">בחר מיקום</div>
+            </select>
+        </div>
+<br>
+<input type="number" #priceUntil="ngModel" [(ngModel)]="model.priceUntil" name="priceUntil" placeholder="עד מחיר">
+        <input type="number" #priceFrom="ngModel" [(ngModel)]="model.priceFrom" name="priceFrom" placeholder="ממחיר">
+      
+
+        <div class="text-align-right">
+            <label for="freeform">:קצת על עצמי</label><br>
+            <textarea id="freeform" name="freeform" rows="4" cols="50"  #aboutMe="ngModel" [(ngModel)]="model.aboutMe" > 
+                        </textarea>
+        </div>
+
+   <br>
+            <button class="btn btn-outline-light" type="submit" [disabled]="registerForm.invalid"
+                (click)="successNotification()">הרשם</button>
+       
+    </form>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div id="img"></div>

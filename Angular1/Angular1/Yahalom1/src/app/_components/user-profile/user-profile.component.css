@@ -1,0 +1,30 @@
+.container {
+    direction: rtl;
+    max-width: 900px; 
+   
+  }
+.body{
+    background: -webkit-linear-gradient(to right, rgb(25, 56, 12), rgb(164, 185, 145));
+    background: linear-gradient(to right,rgb(151, 233, 116), rgb(32, 43, 21));
+    margin-right:-11% ;
+    margin-left:-11% ;
+    margin-top:2%;
+   
+} 
+
+
+    #img{
+    height: 350px;
+    width: 300px;
+   background-image: url(../../imags/g.png);
+ position: fixed;
+ top: 40%;
+ left: -2%;
+ }
+ @media screen and (max-width: 772px) {
+/*    
+  .special{
+    height: 300px;
+  }
+  */
+ }

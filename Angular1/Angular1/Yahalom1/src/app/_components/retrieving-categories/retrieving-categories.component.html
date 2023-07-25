@@ -1,0 +1,48 @@
+<!-- הקטגוריות הראשיות -->
+<h2 *ngIf="isSEcond">{{this.objNamesCategory.mainCategory}}</h2>
+<ul *ngIf="!isSEcond">
+    <div class="flex-container">
+        <li *ngFor="let item of arrCategory" [id]="item.idCategory">
+            <button ngClass="item.idCategory" *ngIf="!this.user.isGroom || item.isForGroom" class="button-28"
+                role="button" (click)="getSecondCtegory(item)"></button>
+                <p>{{ item.category }}</p>
+        </li>
+    </div>
+</ul>
+
+<!-- כל המיון -->
+<div *ngIf="isSEcond">
+    <div class="flex_item">
+        <div class="price">
+            <input type="number" [(ngModel)]="priceFrom" placeholder="ממחיר">
+            <input type="number" [(ngModel)]="priceUntil" placeholder="עד מחיר">
+
+
+            <div class="find btn btn-success subcategory" (click)="search()">חפש <svg xmlns="http://www.w3.org/2000/svg"
+                    width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path
+                        d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                </svg></div>
+        </div>
+        <!-- מיקומים -->
+        <div class="place">
+            <ul *ngIf="arrLocation.length>0">
+                <li *ngFor="let item of arrLocation">
+                    <button class="btn btn-outline-success subcategory fw-bold" (click)="getLocation(item)">{{
+                        item.place
+                        }}</button>
+                </li>
+            </ul>
+        </div>
+        <!-- תת קטגוריות -->
+        <div class="category">
+            <ul>
+                <li *ngFor="let item of arrSecondCategory">
+                    <button class="btn btn-outline-success subcategory" (click)="getCategory(item)">{{
+                        item.description_Second_Ctegory
+                        }}</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

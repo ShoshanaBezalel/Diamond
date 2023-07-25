@@ -1,0 +1,76 @@
+
+       <h1>הרשמת לקוח</h1>
+       <form [formGroup]="form" (ngSubmit)="onSubmit()">
+              <div class="form-group flex-container">
+                     <label for="firstName">שם פרטי</label>
+                     <input formControlName="firstName" id="firstName" type="text" class="form-control">
+                     <div *ngIf="firstName?.touched && firstName?.invalid" class="alert alert-danger">נא הכנס שם פרטי
+                     </div>
+
+                     <label for="lastName">שם משפחה</label>
+                     <input formControlName="lastName" id="lastName" type="text" class="form-control">
+                     <div *ngIf="lastName?.touched && lastName?.invalid" class="alert alert-danger">נא הכנס שם משפחה
+                     </div>
+
+                     <label for="password">סיסמה</label>
+                     <input formControlName="password" id="password" type="password" class="form-control">
+                     <div *ngIf="password?.touched && password?.invalid" class="alert alert-danger">נא הכנס סיסמה</div>
+
+                     <label for="confirmPassword">אימות סיסמה</label>
+                     <input formControlName="confirmPassword" id="confirmPassword" type="password" class="form-control">
+                     <div *ngIf="confirmPassword?.touched && confirmPassword?.invalid" class="alert alert-danger">נא אמת
+                            את סיסמתך</div>
+                     <div *ngIf="form.hasError('confirmPassword', 'validate')" class="alert alert-danger">Passwords do
+                            not match.</div>
+
+
+                     <label for="phone">מספר טלפון</label>
+                     <input formControlName="phone" id="phone" type="number" class="form-control">
+                     <div *ngIf="phone?.touched && phone?.invalid" class="alert alert-danger">נא הכנס מספר טלפון</div>
+
+                     <label for="email">דוא"ל</label>
+                     <input formControlName="email" id="email" type="email" class="form-control">
+                     <div *ngIf="email?.touched && email?.invalid" class="alert alert-danger">נא הכנס כתובת אימייל תקינה
+                     </div>
+
+                     <label for="date">תאריך חתונה</label>
+                     <input formControlName="date" id="date" type="date" class="form-control">
+                     <div *ngIf="date?.touched && date?.invalid" class="alert alert-danger">נא בחר תאריך</div>
+
+
+                     <label for="brideOrGroom">חתן / כלה</label>
+                     <select class="form-control" formControlName="brideOrGroom" name="brideOrGroom" id="selector">
+                            <option value="groom">חתן</option>
+                            <option value="bride">כלה</option>
+                     </select>
+                     <div *ngIf="brideOrGroom?.touched && brideOrGroom?.invalid" class="alert alert-danger">בחר חתן/כלה</div>
+              </div>
+              
+              <button id="submit" [disabled]="form.invalid" type="button" class="btn btn-success">אישור</button>
+
+
+              <!-- <button id="submit" [disabled]="form.invalid" (click)="open(mymodal)">אישור</button> -->
+
+              <ng-template #mymodal let-modal>
+                     <div class="modal-header">
+                            <h4 class="modal-title" id="modal-basic-title">Bootstrap Modal</h4>
+                            <button type="button" class="close" aria-lable="Close"
+                                   (click)="modal.dismiss('Cross click')">
+                                   <span aria-hidden="true">?</span>
+                            </button>
+                     </div>
+                     <div class="modal-body">
+                            {{this.firstName}} {{this.lastName}} נרשם בהצלחה!
+                     </div>
+
+                     <div class="modal-footer">
+                            <button type="button" class="btn btn-outline-dark">OK</button>
+                     </div>
+              </ng-template>
+
+       </form>
+    
+
+
+<!-- <user-area [data]="firstName"></user-area> -->
+<!-- <user-area [data]="date"></user-area> -->

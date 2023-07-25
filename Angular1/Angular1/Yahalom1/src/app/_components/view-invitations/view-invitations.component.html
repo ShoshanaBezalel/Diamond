@@ -1,0 +1,85 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+<body *ngIf="isSupplier && this.showOptions">
+  <div>
+    <button class="invitation-button" (click)="getInvitations(2)">לכל ההזמנות מארבעת החודשים האחרונים</button>
+    <button class="invitation-button" (click)="getInvitations(0)">ההזמנות שעדיין לא שולמו במלואן</button>
+  </div>
+</body>
+
+
+<div id="i" *ngIf="invitations.length > 0">
+  <h2 >ההזמנות שלי</h2>
+  <ol class="list-group list-group-light  text-align-end list-i" style="display: flex; flex-direction: column-reverse;">
+    <li class="list-group-item d-flex justify-content-start align-items-start text-align-end"
+      *ngFor="let invitation of invitations let i = index" [class.show-details]="invitation.isExpanded">
+      <div class="me-auto"></div>
+      <div class="ms-2">
+        <div class="fw-bold">הזמנה מספר {{invitation.idInvitation}} </div>
+        <a (click)="showDetiles(invitation, i)">
+          <div *ngIf="!invitation.isExpanded">פרטי ההזמנה<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"
+              fill="currentColor" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+              <path
+                d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z" />
+            </svg></div>
+          <div *ngIf="invitation.isExpanded"><span>סגור פרטי הזמנה</span><svg xmlns="http://www.w3.org/2000/svg"
+              width="30" height="30" fill="currentColor" class="bi bi-caret-up-fill" viewBox="0 0 16 16">
+              <path
+                d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
+            </svg></div>
+        </a>
+
+      </div>
+    </li>
+  </ol>
+</div>
+<br>
+
+
+<div *ngIf="this.isShowDetiles">
+  <h4 dir="rtl"> פרטי הזמנה מספר: {{invitationToShow.idInvitation}}</h4>
+  <ul class=" list-group-light">
+    <li class="list-group-item d-flex justify-content-end align-items-center ">
+      <div class="item_flex"> {{this.invitationToShow.from }}</div>
+      <span class="fw-bold">מתאריך</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-end align-items-center">
+      <div class="item_flex">{{this.invitationToShow.to}}</div>
+      <span class="fw-bold">עד תאריך</span>
+    </li>
+
+    <li class="list-group-item d-flex justify-content-end align-items-center">
+      <div class="item_flex"> {{this.invitationToShow.finalPrice }}</div>
+
+      <span class="fw-bold">מחיר סופי</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-end align-items-center">
+      <div class="item_flex" *ngIf="this.invitationToShow.statusId==1">בוצע</div>
+      <div class="item_flex" *ngIf="this.invitationToShow.statusId==2">לא בוצע</div>
+      <div class="item_flex" *ngIf="this.invitationToShow.statusId==3"> בתהליך</div>
+
+      <span class="fw-bold">סטטוס</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-end align-items-center">
+      <div class="item_flex"> {{this.invitationToShow.summery }}</div>
+
+      <span class="fw-bold">לסיכום</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-end align-items-center">
+      <button class="btn btn-success b" *ngIf="isSupplier"
+        (click)="getCustomerDetails(this.invitationToShow.idInvitation)">פרטי מזמין</button>
+      <button class="btn btn-success b" *ngIf="isSupplier"
+        (click)="UpdateIsPaid(this.invitationToShow.idInvitation)">עדכן על תשלום</button>
+      <button *ngIf="!isSupplier" (click)="ContactUs(this.invitationToShow.idInvitation)" type="button"
+        class="btn btn-success " id="dropdownBasic1" ngbDropdownToggle>ליצירת קשר <svg
+          xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone-fill"
+          viewBox="0 0 16 16">
+          <path fill-rule="evenodd"
+            d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+        </svg></button>
+    </li>
+  </ul>
+  <br>
+</div>
+<!-- <div id="img"></div> -->

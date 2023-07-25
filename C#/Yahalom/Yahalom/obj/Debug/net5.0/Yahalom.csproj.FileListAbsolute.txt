@@ -1,0 +1,420 @@
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.exe
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.dev.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\scopedcss\bundle\Yahalom.styles.css
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CopyComplete
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.exe
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.dev.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\scopedcss\bundle\Yahalom.styles.css
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CopyComplete
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.StaticWebAssets.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.exe
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.deps.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\scopedcss\bundle\Yahalom.styles.css
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Pack.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.Yahalom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.build.Yahalom.props
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Yahalom.props
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Yahalom.props
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\refint\Yahalom.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\ref\Yahalom.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.exe
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.deps.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.dev.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\ref\Yahalom.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\scopedcss\bundle\Yahalom.styles.css
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\appsettings.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.StaticWebAssets.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.exe
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.deps.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Yahalom.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\scopedcss\bundle\Yahalom.styles.css
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\Yahalom.StaticWebAssets.Pack.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.Yahalom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.build.Yahalom.props
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Yahalom.props
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Yahalom.props
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\refint\Yahalom.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\Yahalom.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\Yahalom\obj\Debug\net5.0\ref\Yahalom.dll

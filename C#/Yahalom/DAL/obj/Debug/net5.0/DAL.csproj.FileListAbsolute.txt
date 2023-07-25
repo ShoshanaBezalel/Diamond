@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DAL\obj\Debug\net5.0\ref\DAL.dll

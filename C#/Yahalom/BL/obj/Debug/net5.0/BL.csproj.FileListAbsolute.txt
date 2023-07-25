@@ -1,0 +1,143 @@
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\refint\BL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\stuff\credentials.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Lib.GoogleClendar.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Calendar.v3.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Auth.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\bin\Debug\net5.0\Google.Apis.Core.xml
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\refint\BL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\BL\obj\Debug\net5.0\ref\BL.dll

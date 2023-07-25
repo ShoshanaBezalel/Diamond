@@ -1,0 +1,95 @@
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\stuff\credentials.json
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.PlatformServices.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.xml
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.xml
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.xml
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.xml
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CoreCompileInputs.cache
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CopyComplete
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.dll
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.pdb
+D:\התקייה לקבצי הלימודים של נטע\הנדסת תוכנה\MyProject2\MyProject\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csprojAssemblyReference.cache
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\stuff\credentials.json
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.pdb
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.xml
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CopyComplete
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Downloads\MyProject2\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\stuff\credentials.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\stuff\credentials.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\Lib.GoogleClendar\obj\Debug\Lib.GoogleClendar.csproj.CopyComplete

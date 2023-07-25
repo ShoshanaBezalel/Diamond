@@ -1,0 +1,19 @@
+iframe{
+height: 300px;
+width: 300px;
+margin-left: 10%;
+}
+b{
+margin-left: 10%;
+}
+ul{
+    margin-top: 5%;
+    margin-right: 5%;
+}
+li a{
+    font-weight: bold;
+    color: rgb(19, 37, 19);
+}
+#im{
+    margin-left: 80%;
+}

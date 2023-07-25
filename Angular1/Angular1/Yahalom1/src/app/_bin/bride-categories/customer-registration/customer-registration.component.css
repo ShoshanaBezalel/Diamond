@@ -1,0 +1,80 @@
+* {box-sizing: border-box;
+}
+
+  /* input[type=text], 
+    input[type=password], 
+    input[type=number], 
+    input[type=email], 
+    input[type=date] {
+  width: 30%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  
+} */
+
+/* input[type=text]:focus,
+ input[type=password]:focus,
+ input[type=number]:focus, 
+ input[type=email]:focus, 
+ input[type=date]:focus {
+  background-color: #ddd;
+  outline: none;
+} */
+
+/* #selector {
+    position: relative;
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 18px;
+  color: #60666d;
+} */
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+ /* button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+} 
+
+ button:hover {
+  opacity:1;
+} */
+/*
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+} */
+/* 
+.container {
+  padding: 16px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}  */
+
+.flex-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: 15px;
+  /* justify-content: space-between; */
+}

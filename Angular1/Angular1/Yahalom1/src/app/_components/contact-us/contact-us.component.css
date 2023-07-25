@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    color: rgb(38, 73, 38);
+    cursor: pointer;
+}
+
+.container {
+    direction: rtl;
+    margin-top: 20%;
+    padding: 10%;
+}
+
+#s {
+    background-size: cover;
+    background: url('../../imags/champagne-wedding-bouquet-beach.jpg') no-repeat no-repeat center/cover;
+    height: 100vh;
+    margin-top: -80px;
+    position: relative;
+}
+
+header * {
+    font-weight: 40px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: -11%;
+    margin-left: -11%;
+    margin-top: -20%;
+    position: relative;
+}

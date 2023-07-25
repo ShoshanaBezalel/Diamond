@@ -1,0 +1,169 @@
+/* .text-align-center {
+  text-align: center;
+}
+.table {
+  direction: rtl;
+
+}
+.button-container {
+  position: fixed;
+ 
+  right: 20px;
+ 
+}
+.selector {
+  direction: rtl;
+}
+.left-btn {
+  direction: ltr;
+}
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-form {
+  display: flex;
+  flex-direction: row;
+}
+.flex-div {
+  display: flex;
+  flex-direction: column;
+  direction: rtl;
+  margin: 17px;
+}
+.form-btn {
+  margin: 20px;
+}
+.add-btn {
+  direction: rtl;
+}
+.form {
+  text-align: right;
+}
+.text-align-right {
+  text-align: right;
+}
+
+h3{
+  direction: rtl;
+}
+#img{
+  height: 350px;
+  width: 300px;
+ background-image: url(../../imags/g.png);
+position: fixed;
+top: 40%;
+left: -2%;
+z-index: -10;
+} */
+
+.text-align-center {
+  text-align: center;
+}
+
+.table {
+  direction: rtl;
+}
+
+.button-container {
+  position: fixed;
+  right: 20px;
+}
+
+.selector {
+  direction: rtl;
+}
+
+.left-btn {
+  direction: ltr;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-form {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-div {
+  display: flex;
+  flex-direction: column;
+  direction: rtl;
+  /* margin: 17px; */
+}
+
+.form-btn {
+  margin: 20px;
+}
+
+.add-btn {
+  direction: rtl;
+}
+
+.form {
+  text-align: right;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+h3 {
+  direction: rtl;
+}
+
+#img {
+  height: 350px;
+  width: 300px;
+  background-image: url(../../imags/g.png);
+  position: fixed;
+  top: 40%;
+  left: -2%;
+  z-index: -10;
+}
+textarea {
+  resize: none;
+}
+
+/* Customize the appearance */
+textarea,input,select{
+  border: 3px solid #423f3f;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  width: 100pxpx;
+  height: 50px;
+}
+
+@media (max-width: 768px) {
+  .flex-form {
+    flex-direction: column;
+  }
+  .row{
+    flex-direction: column-reverse;
+  }
+
+}
+@media (min-width: 700px ){
+  .table{
+    margin-left: -10%;
+   }
+}
+
+@media (max-width: 576px) {
+  .button-container {
+    right: 10px;
+  }
+
+  .text-align-right {
+    text-align: center;
+  }
+
+  .form-btn {
+    margin: 10px;
+  }
+}

@@ -1,0 +1,33 @@
+
+<p>{{ selectedCategory }}</p>
+<div>
+  <ul>
+    <li *ngFor="let item of myArray">
+      <button class="btn btn-primary" (click)="selectedCategory = item">{{ item.name }}</button>
+    </li>
+  </ul>
+
+  <div *ngIf="selectedCategory.id === 6">
+    <ul>
+      <li *ngFor="let item2 of orchestra_dishes">
+        <button>{{ item2.name }}</button>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div>
+  <ul>
+    <li *ngFor="let item of location">
+      <button class="btn btn-primary" (click)="selectedLocation = item">{{ item.name }}</button>
+    </li>
+  </ul>
+</div>
+
+<div>
+  <input type="number" [(ngModel)]="priceFrom" placeholder="From price" >
+  <input type="number" [(ngModel)]="priceUntil" placeholder="Until price">
+</div>
+
+<button (click)="search()" type="button" class="btn btn-dark "mdbRipple>חפש</button>
+

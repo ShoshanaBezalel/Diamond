@@ -1,0 +1,38 @@
+<h2>{{this.objNamesCategory.mainCategory}}</h2>
+
+<table class="table table-striped no-border ">
+  <thead>
+    <tr>
+      <th scope="col" sortable="population">מחיר</th>
+      <th scope="col" sortable="area">אזור מתן השרות</th>
+      <th scope="col" sortable="name">קטגוריה</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{{this.objNamesCategory.priceFrom}}עד {{this.objNamesCategory.priceUntil}}</td>
+      <td>{{this.objNamesCategory.locationN}}</td>
+      <td>{{this.objNamesCategory.categoryN}}</td>
+    </tr>
+  </tbody>
+</table>
+
+<div *ngIf="!showComponent">
+  <ol class="list-group list-group-light text-align-end">
+    <li class="list-group-item d-flex justify-content-start align-items-start text-align-end i"
+      *ngFor="let category of sortedCategories">
+      <div class="me-auto"> <a (click)="toggleComponentVisibility(category) " class="btn btn-outline-dark ">למידע נוסף
+        </a></div>
+      <div class="ms-2">
+        <div class="fw-bold">
+          <p>{{ category.firstName }} {{ category.lastName }} {{ category.aboutMe }}</p>
+        </div>
+
+      </div>
+    </li>
+
+  </ol>
+
+</div>
+<app-view-supplier *ngIf="showComponent" [supplier]="c" [categoryName]="objNamesCategory.categoryN"
+  [location]="objNamesCategory.locationN"></app-view-supplier>

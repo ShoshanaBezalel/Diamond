@@ -1,0 +1,108 @@
+<!-- <div class="special"></div> -->
+<div class="body">
+    <section class="gradient-custom d-flex align-items-center">
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card bg-dark text-white" style="border-radius: 1rem;">
+                        <div class="card-body p-5 text-center">
+                            <h2 class="fw-bold mb-2 text-uppercase">עדכון פרופיל</h2>
+                            <hr>
+                            <form (submit)="updateProfile()">
+                                <div class="form-group">
+                                    <label for="firstName2">שם פרטי</label>
+                                    <input type="text" class="form-control" id="firstName2" name="firstName"
+                                        [(ngModel)]="user.firstName">
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <label for="lastName2">שם משפחה</label>
+                                    <input type="text" class="form-control" id="lastName2" name="lastName"
+                                        [(ngModel)]="user.lastName">
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <label for="inputEmail4">אימייל</label>
+                                    <input type="email" class="form-control" id="inputEmail4" name="email"
+                                        [(ngModel)]="user.email">
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <label for="inputPhone4">טלפון</label>
+                                    <input type="number" class="form-control" id="inputPhone4" name="phone"
+                                        [(ngModel)]="user.phone">
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <label for="inputPassword4">סיסמה</label>
+                                    <input type="password" class="form-control" id="inputPassword4" name="password"
+                                        [(ngModel)]="user.password">
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <label for="inputPassword4">אימות סיסמה</label>
+                                    <input type="password" class="form-control" id="inputPassword4">
+                                </div>
+                                <br>
+                                <div *ngIf="!isSuppllier">
+                                    <div class="form-group">
+                                        <label for="date">תאריך</label>
+                                        <input type="date" class="form-control" id="date" name="dateOfWedding"
+                                            [(ngModel)]="user.dateOfWedding">
+                                    </div>
+                                    <br>
+                                    <div class="form-group">
+                                        <label for="isGroom">בחר חתן/כלה</label>
+                                        <select class="form-control" id="isGroom" name="isGroom"
+                                            [(ngModel)]="user.isGroom">
+                                            <option [ngValue]="true">חתן</option>
+                                            <option [ngValue]="false">כלה</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div  *ngIf="isSuppllier">
+                                    <div class="text-align-right">
+                                        <label>בחר תחום עיסוק</label>
+                                        <select class="form-control text-align-right" name="idCategory" (click)="getSecondCategory(this.user.idCategory)" [(ngModel)]="user.idCategory"
+                                        >
+                                           <option *ngFor="let category of arrCategory" [value]="category.idCategory">{{ category.category }}</option>
+                                       </select> 
+                                    </div>
+                                    <div class="text-align-right">
+                                        <label>בחר תת תחום </label>
+                                         <select class="form-control text-align-right" name="IdSecondSupplierCategory"  [(ngModel)]="user.idSecondSupplierCategory"
+                                         >
+                                            <option *ngFor="let category of arrSecondCategory" [value]="category.id_Second_Ctegory">{{ category.description_Second_Ctegory }}</option>
+                                        </select> 
+                                        
+                                    </div>
+                                    <div class="text-align-right">
+                                        <label>בחר מיקום</label>
+                                        <select class="form-control text-align-right" name="place" [(ngModel)]="user.placeId" #placeId="ngModel"
+                                            required>
+                                            <option [ngValue]="1">ירושלים והסביבה</option>
+                                            <option [ngValue]="2">מרכז</option>
+                                            <option [ngValue]="3">צפון</option>
+                                            <option [ngValue]="4">דרום</option>
+                                            <option [ngValue]="5">כללי</option>
+                                            <div *ngIf="placeId.touched && placeId.invalid" class="alert alert-danger">בחר מיקום</div>
+                                        </select>
+                                    </div>
+                                    <label for="priceUntil">הכנס תווח מחירים</label>
+                                    <br>
+                                           <input type="number" #priceUntil="ngModel" [(ngModel)]="user.priceUntil" name="priceUntil" placeholder="עד מחיר">
+                                           <input type="number" #priceFrom="ngModel" [(ngModel)]="user.priceFrom" name="priceFrom" placeholder="ממחיר">
+      
+                                </div>
+                                <br>
+                                <br>
+                                <button class="btn btn-outline-light" type="submit">עדכן</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+

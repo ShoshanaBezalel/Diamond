@@ -1,0 +1,49 @@
+h2 {
+  text-align: end;
+}
+
+.table {
+  direction: rtl;
+}
+
+th,
+td {
+  text-align: right;
+}
+
+.table.table-striped {
+  border: none;
+}
+
+.list-group {
+  border: none;
+}
+
+.i {
+  background: -webkit-linear-gradient(to right, rgb(25, 56, 12), rgb(164, 185, 145));
+  background: linear-gradient(to right, rgb(151, 233, 116), rgb(32, 43, 21));
+  color: white;
+  border-width: 6px;
+  border-color: black;
+}
+
+p {
+  text-align: center;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+table{
+  margin-top: 5%;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}

@@ -1,0 +1,156 @@
+<p>invitation works!</p>
+
+<!-- <div class="container">
+   <h2>עדכון/הופת הזמנה</h2>
+    <form (submit)="submit()">
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label for="inputFirstName2">שם פרטי</label>
+                <input type="text" class="form-control" id="firstName2" [(ngModel)]="user.firstName">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputLastName2"> מתאריך</label>
+                <input type="date" class="form-control" id="from" [(ngModel)]="i.from">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputLastName2"> עד תאריך</label>
+                <input type="date" class="form-control" id="to" [(ngModel)]="i.to">
+            </div>
+            <label for="inputLastName2"> מחיר </label>
+                <input type="date" class="form-control" id="finalPrice" [(ngModel)]="i.finalPrice">
+
+                <label for="location">מיקום</label>
+                <input type="text" class="form-control" id="location" [(ngModel)]="i.location">
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label for="inputEmail4">אימייל</label>
+                <input type="email" class="form-control" id="inputEmail4" [(ngModel)]="user.email">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputPhone4">טלפון</label>
+                <input type="phone" class="form-control" id="inputPhone4" [(ngModel)]="user.phone">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputPassword4">סיסמה</label>
+                <input type="password" class="form-control" id="inputPassword4" [(ngModel)]="user.password">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputPassword4">אימות סיסמה</label>
+                <input type="password" class="form-control" id="inputPassword4" [(ngModel)]="user.confirmPassword">
+            </div>
+        </div>
+        <div class="customer" *ngIf="role == 2">
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="inputPassword4">תאריך</label>
+                    <input type="date" class="form-control" id="date" [(ngModel)]="user.dateOfWedding">
+                </div>
+                <div class="text-align-right">
+                    <label>בחר חתן/כלה</label>
+                    <select class="form-control text-align-right" name="brideOrGroom" [(ngModel)]="user.groomOrBride">
+                        <option value="groom">חתן</option>
+                        <option value="bride">כלה</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="supplier" *ngIf="role == 1">
+            <div class="form-row">
+                <div class="form-group col-md-3">
+                    <label for="groomOrBride">תחום עיסוק</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>בחר...</option>
+                        <option></option>
+                        <option></option>
+                    </select>
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="groomOrBride">מיקום </label>
+                    <select id="inputState" class="form-control">
+                        <option selected>בחר...</option>
+                        <option></option>
+                        <option></option>
+                    </select>
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="inputPrice4">טווח מחירים</label>
+                    <input type="number" class="form-control" id="inputPriceFrom4" [(ngModel)]="user.priceFrom">
+                    <input type="number" class="form-control" id="inputPriceUntil4" [(ngModel)]="user.priceUntil">
+                </div>
+            </div>
+            <div class="text-align-right">
+                <label for="freeform">:קצת על עצמי</label><br>
+                <textarea id="freeform" name="freeform" rows="4" cols="50"></textarea>
+            </div>
+        </div>
+    </form>
+</div> -->
+
+<!-- <div class="container">
+  <h2>Contact Form</h2>
+  <form (ngSubmit)="submitForm()">
+    <div class="form-group">
+      <label for="from">ממתי</label>
+      <input type="date" class="form-control" id="from" [(ngModel)]="invitationToCreate.from" name="from" required placeholder="הכנס תאריך">
+    </div>
+    <div class="form-group">
+      <label for="to">למתי</label>
+      <input type="date" class="form-control" id="to" [(ngModel)]="invitationToCreate.to" name="to" required placeholder="הכנס תאריך">
+    </div>
+    <div class="form-group">
+      <label for="finalPrice">מחיר סופי</label>
+      <input type="number" class="form-control" id="finalPrice" [(ngModel)]="invitationToCreate.finalPrice" name="finalPrice" required >
+    </div>
+    <div class="form-group">
+        <label for="finalPrice">מחיר סופי</label>
+        <select id="statusId" name="statusId" class="form-control text-align-right" [(ngModel)]="invitationToCreate.statusId "required name="statusId" >
+            <option selected>סטטוס</option>
+            <option [ngValue]="1">בוצע</option>
+            <option [ngValue]="2">לא בוצע</option>
+            <option [ngValue]="3">תהליך</option>
+          </select>
+      </div>
+    <div class="form-group">
+        <label for="summery">סיכום ההזמנה</label>
+      <textarea class="form-control" id="summery" [(ngModel)]="invitationToCreate.summery" name="summery" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div> -->
+<!-- <ul class="list-group list-group-light">
+    <li class="list-group-item px-3 border-0 active" aria-current="true">
+      An active item
+    </li>
+    <li class="list-group-item px-3 border-0">A second item</li>
+    <li class="list-group-item px-3 border-0">A third item</li>
+    <li class="list-group-item px-3 border-0">A fourth item</li>
+    <li class="list-group-item px-3 border-0">And a fifth one</li>
+  </ul> -->
+  <div class="list-group list-group-light" style="min-width: 22rem;">
+    <a
+      href="#"
+      class="list-group-item list-group-item-action px-3 border-0 active"
+      aria-current="true"
+      mdbRipple
+      >The current link item with a ripple</a
+    >
+    <a
+      href="#"
+      class="list-group-item list-group-item-action px-3 border-0"
+      mdbRipple
+      >A second link item with a ripple</a
+    >
+    <a
+      href="#"
+      class="list-group-item list-group-item-action px-3 border-0"
+      mdbRipple
+      >A third link item with a ripple</a
+    >
+    <a
+      href="#"
+      class="list-group-item list-group-item-action px-3 border-0"
+      mdbRipple
+      >A fourth link item with a ripple</a
+    >
+  </div>

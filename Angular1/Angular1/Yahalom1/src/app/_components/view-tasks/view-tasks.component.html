@@ -1,0 +1,106 @@
+<head>
+  <script src="https://kit.fontawesome.com/d04a4429f6.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<!-- //אם הוא ספק אז יש במערך ערכים -->
+<div *ngIf="isSupplier">
+  <h3>ההזמנות שעדיין לא בוצעו</h3>
+
+  <app-view-invitations [showOptions]="false"></app-view-invitations>
+</div>
+
+
+
+<div *ngIf="!isSupplier">
+
+  <div class="container">
+
+    <div class="container">
+      <h1 class="text-align-center">המשימות שלי</h1>
+      <br>
+      <br>
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">מחיקה</th>
+            <th scope="col">המשימה</th>
+            <th scope="col">ליום החתונה או כללי</th>
+            <th scope="col">תת קטגוריה</th>
+            <th scope="col">סטטוס</th>
+            <th scope="col">הערות</th>
+          </tr>
+        </thead>
+
+        <tbody *ngFor="let item of arrTasks">
+          <tr>
+            <th scope="row">{{ item.myTasksId }}</th>
+            <td (click)="deleteTask(item)"><i class="fa-regular fa-trash fa fa-lg"></i></td>
+            <td>{{ item.remarks }}</td>
+            <td *ngIf="item.isToWeddingDay">ליום החתונה</td>
+            <td *ngIf="!item.isToWeddingDay">כללי</td>
+            <td>{{ item.categoryForTask }}</td>
+            <td *ngIf="item.statusId==1">בוצע</td>
+            <td *ngIf="item.statusId==2">לא בוצע</td>
+            <td *ngIf="item.statusId==3">בתהליך</td>
+            <td>{{ item.missionDescription }}</td>
+            <td></td>
+            <td><button (click)="openEdit(item)" class="btn btn-secondary">עריכה</button></td>
+          </tr>
+        </tbody>
+
+      </table>
+
+      <div class="new-task" *ngIf="showForm">
+
+        <form (ngSubmit)="createTask()" #taskForm="ngForm">
+          <div class="row">
+            <div class="col">
+              <button *ngIf="isEdit" class="btn btn-dark" (click)="editTask()">שמירה</button>
+              <button *ngIf="!isEdit" class="btn btn-outline-dark" type="submit">שמירה</button>
+            </div>
+            <div class="col">
+              <textarea id="missionDescription" name="missionDescription" class="form-control text-align-right"
+                placeholder="הערות" [(ngModel)]="task.missionDescription"></textarea>
+            </div>
+            <div class="col">
+              <select id="statusId" name="statusId" class="form-control text-align-right" [(ngModel)]="task.statusId">
+                <option selected>סטטוס</option>
+                <option [ngValue]="1">בוצע</option>
+                <option [ngValue]="2">לא בוצע</option>
+                <option [ngValue]="3">תהליך</option>
+              </select>
+            </div>
+            <div class="col">
+              <input type="text" id="categoryForTask" name="categoryForTask" class="form-control text-align-right"
+                placeholder="קטגוריה" [(ngModel)]="task.categoryForTask">
+            </div>
+            <div class="col">
+              <select id="isToWeddingDay" name="isToWeddingDay" class="form-control text-align-right"
+                [(ngModel)]="task.isToWeddingDay">
+                <option selected>בחר</option>
+                <option [ngValue]="true">ליום החתונה</option>
+                <option [ngValue]="false">כללי</option>
+              </select>
+            </div>
+            <div class="col">
+              <textarea id="remarks" name="remarks" placeholder="תיאור המשימה" class="form-control text-align-right"
+                [(ngModel)]="task.remarks"></textarea>
+            </div>
+          </div>
+        </form>
+
+      </div>
+
+      <br><br>
+      <div class="text-center" *ngIf="!showForm">
+        <button class="btn btn-outline-success" (click)="openAddForm()">הוספת
+          משימה</button>
+      </div>
+
+    </div>
+
+
+  </div>
+  <!-- <div id="img"></div> -->

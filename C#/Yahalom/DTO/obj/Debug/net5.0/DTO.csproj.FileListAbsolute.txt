@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\לימודים\שנה ג\פרויקט גמר\פרויקט מעודכןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןןן\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\refint\DTO.dll
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Downloads\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\פרויקט להגשה\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\refint\DTO.dll
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\LENOVO\Desktop\פרויקט סופי\פרויקט 12 07 2023\Yahalom\DTO\obj\Debug\net5.0\ref\DTO.dll

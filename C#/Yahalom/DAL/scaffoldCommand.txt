@@ -1,0 +1,5 @@
+--create
+Scaffold-DbContext "Server=DESKTOP-379UGQO;Database=Yahalom;Integrated Security=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB
+
+--update
+Scaffold-DbContext "Server=DESKTOP-379UGQO;Database=Yahalom;Integrated Security=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB -Force
